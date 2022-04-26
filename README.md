@@ -1,5 +1,4 @@
-# team_151
-# **Takım İsmi**
+# **team_151**
 
 Takım X
 
