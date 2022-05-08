@@ -1,18 +1,21 @@
-# **team_151**
+# **XYZ**
 
-Takım X
+Takım XYZ
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Zübeyde KESKİN: Product Owner
+- Zübeyde KESKİN: Scrum Master
+- Şüheda Nur ARVASİ: Team Member/Developer
+- Hasan ARIKAN: Team Member/Developer
+- Hatice Kübra ÇINAR: Team Member/Designer
+- Cansu Okur: Team Member/Designer
 
 ## Ürün İsmi
 
---Movie App--
+-- --
 
 ## Ürün Açıklaması
 
