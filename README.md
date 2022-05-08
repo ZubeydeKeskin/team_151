@@ -1,6 +1,6 @@
-# **XYZ**
+# **XtoY**
 
-Takım XYZ
+Takım XtoY
 
 # Ürün İle İlgili Bilgiler
 
@@ -15,11 +15,11 @@ Takım XYZ
 
 ## Ürün İsmi
 
--- --
+--Learn within a Play--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- "Learn within a Play" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Kullanıcıların, zorluk seviyelerine göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bularak öğreneceklerdir.
 
 ## Ürün Özellikleri
 
