@@ -1,6 +1,6 @@
 # **XtoY**
 
-Takım XtoY
+Team 151_XtoY
 
 # Ürün İle İlgili Bilgiler
 
