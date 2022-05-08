@@ -19,22 +19,20 @@ Takım XtoY
 
 ## Ürün Açıklaması
 
-- "Learn within a Play" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Kullanıcıların, zorluk seviyelerine göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bularak öğreneceklerdir.
+- "Learn within a Play" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Kullanıcıların, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bularak öğreneceklerdir.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Sahneleri mekanlara göre ayırma
+- Her sahnede farklı zorluk seviyelerinde kelimelerin bulunması
+- Kelimelerin sahne içerisindeki görsellerle eşleştirilmesi
+-
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Okul öncesi öğrencileri
+- Erken çocukluk dönemi (4-6 yaş) kullanıcıları
+- Yabancı dil öğrenimi alan kullanıcılar
 
 ## Product Backlog URL
 
