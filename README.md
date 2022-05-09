@@ -15,11 +15,11 @@ Team 151_XtoY
 
 ## Ürün İsmi
 
-"Play within a Map"
+"XtoY"
 
 ## Ürün Açıklaması
 
-- "Play within a May" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Oyuncular, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bulacak ve yön tarif etmeyi öğreneceklerdir.
+- "XtoY" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Oyuncular, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bulacak ve yön tarif etmeyi öğreneceklerdir.
 
 ## Ürün Özellikleri
 
