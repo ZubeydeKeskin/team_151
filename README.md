@@ -59,8 +59,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
+- **Ürün Sahnesi için Referanslar**: 
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint1/ref1.jpg)
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
