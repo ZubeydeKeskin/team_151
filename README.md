@@ -1,6 +1,6 @@
 # **XtoY**
 
-Takım XtoY
+Team 151_XtoY
 
 # Ürün İle İlgili Bilgiler
 
@@ -19,7 +19,7 @@ Takım XtoY
 
 ## Ürün Açıklaması
 
-- "Learn within a Play" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Kullanıcıların, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bularak öğreneceklerdir.
+- "Learn within a Play" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Oyuncular, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bularak öğreneceklerdir.
 
 ## Ürün Özellikleri
 
