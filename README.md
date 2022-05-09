@@ -60,8 +60,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
 - **Ürün Sahnesi için Referans Haritalar**: 
+- Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak harita görselleri referans olarak eklenmiştir.
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint1/ref1.jpg)
-  ![Screenshot 2](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint1/ref2.jpg?raw=true)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
