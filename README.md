@@ -55,7 +55,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 1 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/Team151_DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint1/sprintboard_ss.png) 
 
 - **Ürün Sahnesi için Referans Haritalar**: 
 - Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak harita görselleri referans olarak eklenmiştir.
