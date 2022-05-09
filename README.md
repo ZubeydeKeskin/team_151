@@ -6,7 +6,7 @@ Team 151_XtoY
 
 ## Takım Elemanları
 
-- Zübeyde KESKİN: Product Owner
+- Hasan ARIKAN: Product Owner
 - Zübeyde KESKİN: Scrum Master
 - Şüheda Nur ARVASİ: Team Member/Developer
 - Hasan ARIKAN: Team Member/Developer
