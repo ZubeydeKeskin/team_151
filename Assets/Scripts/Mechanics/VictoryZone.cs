@@ -16,6 +16,8 @@ namespace Platformer.Mechanics
             {
                 var ev = Schedule<PlayerEnteredVictoryZone>();
                 ev.victoryZone = this;
+                //Karakteri ana ekrana gönder
+                //Skoru sıfırla
             }
         }
     }

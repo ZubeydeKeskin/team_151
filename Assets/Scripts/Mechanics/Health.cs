@@ -1,6 +1,7 @@
 using System;
 using Platformer.Gameplay;
 using UnityEngine;
+using UnityEngine.UI;
 using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
@@ -20,7 +21,38 @@ namespace Platformer.Mechanics
         /// </summary>
         public bool IsAlive => currentHP > 0;
 
-        int currentHP;
+        public int currentHP;
+        
+        /// <summary>
+        /// Gösterilen can değerinin gösterilmesi için fonksiyon
+        /// </summary>
+
+        public Image[] hearts;
+        public Sprite fullHeart;
+        public Sprite emptyHeart;
+
+        void Update()
+        {
+            for (int i = 0; i < hearts.Length; i++)
+            {
+                if (i < currentHP)
+                {
+                    hearts[i].sprite = fullHeart;
+                }
+                else
+                {
+                    hearts[i].sprite = emptyHeart;
+                }
+
+                if (i < maxHP)
+                {
+                    hearts[i].enabled = true;
+                }else
+                {
+                    hearts[i].enabled = false;
+                }
+            }
+        }
 
         /// <summary>
         /// Increment the HP of the entity.
