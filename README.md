@@ -76,6 +76,10 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 # Sprint 2
 
+- **Sprint Notları**: Oyun hikayesi yeniden kurgulanarak ilgili tasarımlar üretildi. 
+- Ana karaktere ait sketch çalışmaları yapıldı. Karaktere ait yürüme, zıplama vb. hareket fonksiyonlarının animasyonları üzerinde çalışmaya başlandı. 
+- Ölüm, puanlama, kazanma User Interface (UI) kısımlarında düzenlemler yapıldı.
+
 ## Ürün İsmi
 
 "XtoY"
@@ -119,12 +123,18 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   ![Screenshot 1](https://github.com/)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir. Sprint Review katılımcıları: ......
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
+
+- **Diğer Notlar:**
+  -Teslime yetişmesi durumunda oyunun detaylandırılarak yeni fonksiyonların kazandırılması planlanmıştır: 
+  -Düşman çeşitliliğinin arttırılması,
+  -Düşman ve karakter tasarımlarının değiştirilmesi,
+  -Karakter ve düşman animasyonlarının oluşturulması/geliştirilmesi...
 ---
 
 # Sprint 3
