@@ -84,10 +84,6 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Sprintboard2.png) 
-
-- **Ürün Sahnesi için Referans Haritalar**: 
-- Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak harita görselleri referans olarak eklenmiştir.
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/)
   
 - **Sahne Arkaplan Tasarımı için Örnekler**: 
 - Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak arkaplan görselleri eklenmiştir.
@@ -105,13 +101,13 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_2.png)
 
 - **Sprint Review**: 
-Alınan kararlar: Sprint Review katılımcıları: ......
+Alınan kararlar: 
+Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
 
 - **Sprint Retrospective:**
-  -  Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Test'ler için ayrılan efor/saat arttırılmalı.
 
 - **Diğer Notlar:**
   - Düşman çeşitliliğinin arttırılması,
