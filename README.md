@@ -19,20 +19,21 @@ Team 151_XtoY
 
 ## Ürün Açıklaması
 
-- "XtoY" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Oyuncular, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bulacak ve yön tarif etmeyi öğreneceklerdir.
+- "XtoY" kaykay ile çeşitli engelleri aşarak puan toplanılan ve toplanılan puanlarla bölüm sonunda yeni bir kaykaya sahip olunulan eğlenceli bir oyundur. 2 boyutlu bir kaykay oyunu olan XtoY oynaması kolay olup özgün tasarıma sahiptir. Oyuncular, mekanlara göre ayrılmış sahnelerde farklı engelleri aşmaya çalışarak kolaydan zora devam eden bölümleri geçmeye çalışacaklardır.
 
 ## Ürün Özellikleri
 
-- Sahneleri mekanlara göre ayırma
-- Her sahnede farklı zorluk seviyelerinde kelimelerin bulunması
-- Kelimelerin sahne içerisindeki görsellerle eşleştirilmesi
+- Akıcı 2 boyutlu tasarım
+- Minimalist ve şık görsel tasarım
+- Sahneleri mekanlara göre ayrılması
+- Her sahnede farklı zorluk seviyelerinin tasarlanması
+- Bölümlerin sonunda kazanılan puanlarla farklı kaykaya sahip olunması
 -
 
 ## Hedef Kitle
 
-- Okul öncesi öğrencileri
-- Erken çocukluk dönemi (4-6 yaş) kullanıcıları
-- Yabancı dil öğrenimi alan kullanıcılar
+- Genel kullanıcılar (+4)
+- Eğlenceli içeriğe ulaşmak isteyen kullanıcılar
 
 ## Product Backlog URL
 
