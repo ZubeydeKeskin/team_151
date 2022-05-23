@@ -91,15 +91,16 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   
 - **Sahne Arkaplan Tasarımı için Örnekler**: 
 - Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak arkaplan görselleri eklenmiştir.
-  ![Screenshot 1](https://github.com/)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Arkaplan1.png)
 
 - **Oyun Ana Karakteri için Örnekler**: 
 - Üzerinde çalışılan ana karakter görselleri eklenmiştir.
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter1.png)
-  (https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter2.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter2.png)
   
 - **Oyundan Görseller**: 
 - Oyundan görseller eklenmiştir.
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Başlangıç_ekranı.png)
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_1.png)
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_2.png)
 
