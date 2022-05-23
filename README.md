@@ -102,9 +102,10 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   ![Screenshot 1](https://github.com/)
 
 - **Sprint Review**: 
-Alınan kararlar: Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir. Sprint Review katılımcıları: ......
+Alınan kararlar: Sprint Review katılımcıları: ......
 
 - **Sprint Retrospective:**
+  -  Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
