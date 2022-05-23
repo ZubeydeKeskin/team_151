@@ -83,7 +83,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 2 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Team151_DailyScrumMeetingNotesSprint2.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint1/sprintboard_ss.png) 
+![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Sprintboard2.png) 
 
 - **Ürün Sahnesi için Referans Haritalar**: 
 - Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak harita görselleri referans olarak eklenmiştir.
