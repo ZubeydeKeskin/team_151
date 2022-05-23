@@ -19,7 +19,7 @@ Team 151_XtoY
 
 ## Ürün Açıklaması
 
-- "XtoY" kaykay ile çeşitli engelleri aşarak puan toplanılan ve toplanılan puanlarla bölüm sonunda yeni bir kaykaya sahip olunulan eğlenceli bir oyundur. 2 boyutlu bir kaykay oyunu olan XtoY oynaması kolay olup özgün tasarıma sahiptir. Oyuncular, mekanlara göre ayrılmış sahnelerde farklı engelleri aşmaya çalışarak kolaydan zora devam eden bölümleri geçmeye çalışacaklardır.
+- "XtoY" kaykay ile çeşitli engelleri aşılarak puan toplanılan ve toplanılan puanlarla bölüm sonunda yeni bir kaykaya sahip olunulan eğlenceli bir oyundur. 2 boyutlu bir kaykay oyunu olan XtoY oynaması kolay olup özgün tasarıma sahiptir. Oyuncular, mekanlara göre ayrılmış sahnelerde farklı engelleri aşmaya çalışarak kolaydan zora devam eden bölümleri geçmeye çalışacaklardır.
 
 ## Ürün Özellikleri
 
