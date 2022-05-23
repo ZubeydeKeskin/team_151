@@ -104,7 +104,19 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 - **Ürün Sahnesi için Referans Haritalar**: 
 - Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak harita görselleri referans olarak eklenmiştir.
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint1/ref1.jpg)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/)
+  
+- **Sahne Arkaplan Tasarımı için Örnekler**: 
+- Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak arkaplan görselleri eklenmiştir.
+  ![Screenshot 1](https://github.com/)
+
+- **Oyun Ana Karakteri için Örnekler**: 
+- Üzerinde çalışılan ana karakter görselleri eklenmiştir.
+  ![Screenshot 1](https://github.com/)
+  
+- **Oyundan Görseller**: 
+- Oyundan görseller eklenmiştir.
+  ![Screenshot 1](https://github.com/)
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
