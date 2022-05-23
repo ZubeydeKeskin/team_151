@@ -24,8 +24,8 @@ Team 151_XtoY
 ## Ürün Özellikleri
 
 - Akıcı 2 boyutlu tasarım
-- Minimalist ve şık görsel tasarım
-- Sahneleri mekanlara göre ayrılması
+- Minimalist ve şık görseller
+- Sahnelerin mekanlara göre ayrılması
 - Her sahnede farklı zorluk seviyelerinin tasarlanması
 - Bölümlerin sonunda kazanılan puanlarla farklı kaykaya sahip olunması
 -
