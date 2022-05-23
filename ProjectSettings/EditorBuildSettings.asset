@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/GirisEkrani.unity
+    guid: 7a19c493c2bdf08489a4e21e4f8323eb
+  - enabled: 1
     path: Assets/Scenes/Baslangic.unity
     guid: 53ac70a0702325649a1962d78030faaa
   - enabled: 1

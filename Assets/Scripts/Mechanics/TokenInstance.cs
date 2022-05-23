@@ -1,6 +1,9 @@
+using System;
 using Platformer.Gameplay;
 using UnityEngine;
 using static Platformer.Core.Simulation;
+using TMPro;
+using Random = UnityEngine.Random;
 
 
 namespace Platformer.Mechanics
@@ -57,6 +60,10 @@ namespace Platformer.Mechanics
             var ev = Schedule<PlayerTokenCollision>();
             ev.token = this;
             ev.player = player;
+            
+            //totalScore arttırılır ve yazılır
+            Score.totalScore++;
+            Score.instanceScore++;
         }
     }
 }
