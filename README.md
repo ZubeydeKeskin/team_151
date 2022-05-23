@@ -110,9 +110,9 @@ Alınan kararlar: Görev dağılımlarının ve ayrılacak olan zamanların daha
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
 - **Diğer Notlar:**
-  -Düşman çeşitliliğinin arttırılması,
-  -Düşman ve karakter tasarımlarının değiştirilmesi,
-  -Karakter ve düşman animasyonlarının oluşturulması/geliştirilmesi...
+  - Düşman çeşitliliğinin arttırılması,
+  - Düşman ve karakter tasarımlarının değiştirilmesi,
+  - Karakter ve düşman animasyonlarının oluşturulması/geliştirilmesi...
 ---
 
 # Sprint 3
