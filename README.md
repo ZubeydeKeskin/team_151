@@ -95,7 +95,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 - **Oyun Ana Karakteri için Örnekler**: 
 - Üzerinde çalışılan ana karakter görselleri eklenmiştir.
-  ![Screenshot 1]([https://github.com/](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter1.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter1.png)
   
 - **Oyundan Görseller**: 
 - Oyundan görseller eklenmiştir.
