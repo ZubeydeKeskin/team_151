@@ -80,27 +80,6 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 - Ana karaktere ait sketch çalışmaları yapıldı. Karaktere ait yürüme, zıplama vb. hareket fonksiyonlarının animasyonları üzerinde çalışmaya başlandı. 
 - Ölüm, puanlama, kazanma User Interface (UI) kısımlarında düzenlemler yapıldı.
 
-## Ürün İsmi
-
-"XtoY"
-
-## Ürün Açıklaması
-
-- "XtoY" oyunu ile erken çocukluk dönemine (4-6 yaş) hitap edecek eğlenceli ve öğretici içeriklerin çocukların yabancı dil öğrenmesine katkı sağlaması amaçlanmıştır. Oyuncular, mekanlara göre ayrılmış sahnelerde gündelik hayatta en sık kullandıkları kelimelerin İngilizce karşılıklarını bulacak ve yön tarif etmeyi öğreneceklerdir.
-
-## Ürün Özellikleri
-
-- Sahneleri mekanlara göre ayırma
-- Her sahnede farklı zorluk seviyelerinde kelimelerin bulunması
-- Kelimelerin sahne içerisindeki görsellerle eşleştirilmesi
--
-
-## Hedef Kitle
-
-- Okul öncesi öğrencileri
-- Erken çocukluk dönemi (4-6 yaş) kullanıcıları
-- Yabancı dil öğrenimi alan kullanıcılar
-
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 2 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Team151_DailyScrumMeetingNotesSprint2.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
