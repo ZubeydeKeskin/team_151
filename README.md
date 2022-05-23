@@ -11,7 +11,7 @@ Team 151_XtoY
 - Şüheda Nur ARVASİ: Team Member/Developer
 - Hasan ARIKAN: Team Member/Developer
 - Hatice Kübra ÇINAR: Team Member/Designer
-- Cansu Okur: Team Member/Designer
+- Cansu Okur: Team Member/Designer (Pasif Takım Üyesi)
 
 ## Ürün İsmi
 
