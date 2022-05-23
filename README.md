@@ -103,10 +103,10 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 - **Sprint Review**: 
 Alınan kararlar: 
+  - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
 Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
 
 - **Sprint Retrospective:**
-  - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Test'ler için ayrılan efor/saat arttırılmalı.
 
