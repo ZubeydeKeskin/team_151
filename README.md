@@ -33,7 +33,7 @@ Team 151_XtoY
 ## Hedef Kitle
 
 - Genel kullanıcılar (+4)
-- Eğlenceli içeriğe ulaşmak isteyen kullanıcılar
+- Eğlenceli içeriğe ulaşmak isteyen tüm kullanıcılar
 
 ## Product Backlog URL
 
