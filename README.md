@@ -100,7 +100,8 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   
 - **Oyundan Görseller**: 
 - Oyundan görseller eklenmiştir.
-  ![Screenshot 1](https://github.com/)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_1.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_2.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Sprint Review katılımcıları: ......
