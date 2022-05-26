@@ -61,8 +61,7 @@ namespace Platformer.Mechanics
             ev.token = this;
             ev.player = player;
             
-            //totalScore arttırılır ve yazılır
-            Score.totalScore++;
+            //instanceScore arttırılır 
             Score.instanceScore++;
         }
     }

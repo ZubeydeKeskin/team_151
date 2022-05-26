@@ -16,7 +16,7 @@ namespace Platformer.Mechanics
     {
         void OnTriggerStay2D(Collider2D collider)
         { 
-            if (Input.GetButton("Vertical"))
+            if (Input.GetButton("Vertical") && Keys.key2)
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
             }
