@@ -15,11 +15,16 @@ namespace Platformer.Mechanics
         void OnTriggerEnter2D(Collider2D collider)
         {
             var p = collider.gameObject.GetComponent<PlayerController>();
-            if (p != null)
+            if (p != null) // collider.gameObject.CompareTag("Player") olarak düşünülebilir, Karakter=PlayerController 
             {
                 p.health.currentHP = 1;
                 var ev = Schedule<PlayerEnteredDeathZone>();
                 ev.deathzone = this;
+            }
+
+            if (collider.gameObject.CompareTag("Player"))
+            {
+                
             }
         }
     }
