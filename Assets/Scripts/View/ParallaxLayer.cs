@@ -9,20 +9,20 @@ namespace Platformer.View
     public class ParallaxLayer : MonoBehaviour
     {
         /// <summary>
-        /// Movement of the layer is scaled by this value.
+        /// Movement of the layer is scaled by this value. // Arkaplan'nın oynar bir hal almasını sağlar, tile'lar belirli oranda kamera ile oynarlar
         /// </summary>
         public Vector3 movementScale = Vector3.one;
 
-        Transform _camera;
+        Transform _camera; // Kamera x-y-z verileri
 
         void Awake()
         {
-            _camera = Camera.main.transform;
+            _camera = Camera.main.transform; // Ana kameranın x-y-z değerleri _camera ile kaydedilir 
         }
 
         void LateUpdate()
         {
-            transform.position = Vector3.Scale(_camera.position, movementScale);
+            transform.position = Vector3.Scale(_camera.position, movementScale); // Ana kameranın pozisyonu değiştirilir
         }
 
     }

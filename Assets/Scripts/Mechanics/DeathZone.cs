@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using Platformer.Gameplay;
+﻿using Platformer.Gameplay;
 using UnityEngine;
 using static Platformer.Core.Simulation;
 
@@ -14,18 +12,20 @@ namespace Platformer.Mechanics
     {
         void OnTriggerEnter2D(Collider2D collider)
         {
-            var p = collider.gameObject.GetComponent<PlayerController>();
-            if (p != null) // collider.gameObject.CompareTag("Player") olarak düşünülebilir, Karakter=PlayerController 
+            var p = collider.gameObject.GetComponent<PlayerController>(); // collide eden obje PlayerController (karakterimiz) ise p'ye atanır 
+            if (p != null) // p boş değilse çalışır.
+                           // [(collider.gameObject.CompareTag("Player") olarak düşünülebilir, Karakter=PlayerController)]
             {
                 p.health.currentHP = 1;
-                var ev = Schedule<PlayerEnteredDeathZone>();
-                ev.deathzone = this;
-            }
-
+                Schedule<PlayerDeath>();
+            } 
+            /*
             if (collider.gameObject.CompareTag("Player"))
             {
-                
+                p.health.currentHP = 1;
+                Schedule<PlayerDeath>();
             }
+            */
         }
     }
 }

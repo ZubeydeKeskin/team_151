@@ -8,7 +8,7 @@ using UnityEngine;
 namespace Platformer.Gameplay
 {
     /// <summary>
-    /// Fired when the player has died.
+    /// Fired when the player has died or damaged
     /// </summary>
     /// <typeparam name="PlayerDeath"></typeparam>
     public class PlayerDeath : Simulation.Event<PlayerDeath>
@@ -18,7 +18,7 @@ namespace Platformer.Gameplay
         public override void Execute()
         {
             var player = model.player;
-            if (player.health.IsAlive && (player.health.currentHP <= 1))
+            if (player.health.IsAlive && (player.health.currentHP <= 1) && !player.health.immunity)
             {
                 player.health.Die();
                 model.virtualCamera.m_Follow = null;
@@ -28,16 +28,20 @@ namespace Platformer.Gameplay
 
                 if (player.audioSource && player.ouchAudio)
                     player.audioSource.PlayOneShot(player.ouchAudio);
-                player.animator.SetTrigger("hurt");
+                player.animator.SetTrigger("hurt"); //Player hasar alma anismasyonu oynatılır
                 player.animator.SetBool("dead", true);
                 Simulation.Schedule<PlayerSpawn>(2);
             }
-            else
+            else if (!player.health.immunity)
             {
-                if (player.audioSource && player.ouchAudio)
-                    player.audioSource.PlayOneShot(player.ouchAudio);
-                player.animator.SetTrigger("hurt");
-                player.health.currentHP--;
+                if (player.audioSource && player.ouchAudio) // Eğerki ses kaynağı ve kayıtlı hasar sesi varsa oynatılır
+                    player.audioSource.PlayOneShot(player.ouchAudio); // hasar alma sesi oynatılır
+                player.animator.SetTrigger("hurt"); // Player hasar alma animasyonu oynatılır
+                player.health.currentHP--; //Can azalır
+                
+                player.health.immunity = true; //Karakter hasar almaz hale gelir
+                
+                Simulation.Schedule<IsNotImmune>(3); //3 saniye sonra tekrardan hasar alınabilir hale gelir
             }
         }
     }

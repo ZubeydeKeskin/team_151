@@ -11,6 +11,10 @@ namespace Platformer.Mechanics
     /// </summary>
     public class Health : MonoBehaviour
     {
+        // Boolean gösterge, karakterin zarar almasını engeler
+        // Ardı ardına alınan hasarları dudurmak için
+        public bool immunity;
+            
         /// <summary>
         /// The maximum hit points for the entity.
         /// </summary>
@@ -69,10 +73,9 @@ namespace Platformer.Mechanics
         public void Decrement()
         {
             currentHP = Mathf.Clamp(currentHP - 1, 0, maxHP);
-            if (currentHP == 0)
+            if (currentHP == 0) // Health is Zero, Sağlık 0 ise karakter ölümü event'i çağrılır
             {
-                var ev = Schedule<HealthIsZero>();
-                ev.health = this;
+                Schedule<PlayerDeath>(); // PlayerDeath event.
             }
         }
 
