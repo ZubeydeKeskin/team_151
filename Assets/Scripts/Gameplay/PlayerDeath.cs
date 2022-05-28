@@ -9,6 +9,7 @@ namespace Platformer.Gameplay
 {
     /// <summary>
     /// Fired when the player has died or damaged
+    /// Oyuncu öldürülür ya da hasar alır
     /// </summary>
     /// <typeparam name="PlayerDeath"></typeparam>
     public class PlayerDeath : Simulation.Event<PlayerDeath>
