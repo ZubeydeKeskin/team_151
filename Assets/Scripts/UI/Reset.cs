@@ -7,7 +7,7 @@ public class Reset : MonoBehaviour
 {
     void Start()
     {
-        Score.totalScore -= Score.instanceScore;
+        Score.instanceScore = 0;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

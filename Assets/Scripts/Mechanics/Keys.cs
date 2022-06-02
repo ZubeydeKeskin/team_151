@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class Keys : MonoBehaviour
@@ -31,5 +32,22 @@ public class Keys : MonoBehaviour
         }
         Destroy(gameObject);
         AudioSource.PlayClipAtPoint(keyCollectAudio, gameObject.transform.position);
+    }
+
+    private void Awake()
+    {
+        if (key1 && (SceneManager.GetActiveScene().buildIndex == 1))
+        {
+            Destroy(gameObject);
+        }
+        if (key2 && (SceneManager.GetActiveScene().buildIndex == 2))
+        {
+            Destroy(gameObject);
+        }
+        if (key3 && (SceneManager.GetActiveScene().buildIndex == 3))
+        {
+            Destroy(gameObject);
+            Debug.Log("selam");
+        }
     }
 }

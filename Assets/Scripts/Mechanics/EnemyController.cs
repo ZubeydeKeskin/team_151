@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Platformer.Core;
 using Platformer.Gameplay;
 using UnityEngine;
 using static Platformer.Core.Simulation;
@@ -44,7 +45,7 @@ namespace Platformer.Mechanics
 
         void Update()
         {
-            if (path != null)
+            if (path != null) // Eğer ki girilen bir rota varsa izlenir
             {
                 if (mover == null) mover = path.CreateMover(control.maxSpeed * 0.5f);
                 control.move.x = Mathf.Clamp(mover.Position.x - transform.position.x, -1, 1);
