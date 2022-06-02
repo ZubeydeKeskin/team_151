@@ -20,9 +20,16 @@ namespace Platformer.Gameplay
         {
             model.player.animator.SetTrigger("victory");
             model.player.controlEnabled = false;
-            
-            SceneManager.LoadScene(1); //Karakteri ana ekrana gönder
-            
+
+            if (!(SceneManager.GetActiveScene().buildIndex == 4)) // Eğer son bölüm değilse
+            {
+                SceneManager.LoadScene(1); //Karakteri ana ekrana gönder
+            }
+            else
+            {
+                SceneManager.LoadScene(5);
+            }
+
             //Elindeki skoru oynanılan bölüm için kaydet (Score.cs içinde)
             if (SceneManager.GetActiveScene().buildIndex == 2)//Bolum_1
             {
@@ -42,6 +49,8 @@ namespace Platformer.Gameplay
                 {
                     Score.thirdZone = Score.instanceScore;
                 }
+                Score.totalScore = Score.firstZone + Score.secondZone + Score.thirdZone;
+                Score.instanceScore = 0; 
             }
             Score.totalScore = Score.firstZone + Score.secondZone + Score.thirdZone;
             Score.instanceScore = 0; // Anlık Skoru sıfırla

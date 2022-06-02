@@ -15,11 +15,15 @@ namespace Platformer.Mechanics
         {
             if (Input.GetButton("Vertical") && SceneManager.GetActiveScene().buildIndex == 2 && Keys.key2)
             {
-                var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Ana ekrana gönderme ve skorları kayıt etme)
+                var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Ana ekrana gönder ve skorları kayıt et)
                 ev.victoryZone = this;
             }else if (Input.GetButton("Vertical") && SceneManager.GetActiveScene().buildIndex == 3 && Keys.key3)
             {
-                var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Ana ekrana gönderme ve skorları kayıt etme)
+                var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Ana ekrana gönder ve skorları kayıt et)
+                ev.victoryZone = this;
+            }else if (Input.GetButton("Vertical") && SceneManager.GetActiveScene().buildIndex == 4)
+            {
+                var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Son ekrana gönder ve skorları kayıt et)
                 ev.victoryZone = this;
             }
         }

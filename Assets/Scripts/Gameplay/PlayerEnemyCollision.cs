@@ -1,3 +1,4 @@
+using System.Runtime.CompilerServices;
 using Platformer.Core;
 using Platformer.Mechanics;
 using Platformer.Model;
