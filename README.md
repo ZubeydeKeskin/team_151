@@ -11,7 +11,7 @@ Team 151_XtoY
 - Şüheda Nur ARVASİ: Team Member/Developer
 - Hasan ARIKAN: Team Member/Developer
 - Hatice Kübra ÇINAR: Team Member/Designer
-- Cansu Okur: Team Member/Designer (Pasif Takım Üyesi)
+- Cansu Okur: Team Member/Designer 
 
 ## Ürün İsmi
 
@@ -47,7 +47,7 @@ Team 151_XtoY
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -118,4 +118,46 @@ Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
 
 # Sprint 3
 
----
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 2 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Team151_DailyScrumMeetingNotesSprint2.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Sprintboard2.png) 
+  
+- **Sahne Arkaplan Tasarımı için Örnekler**: 
+- Sprint dosyasına sahnelerde kullanılmak üzere yeniden tasarlanacak arkaplan görselleri eklenmiştir.
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Arkaplan1.png)
+
+- **Oyun Ana Karakteri için Örnekler**: 
+- Üzerinde çalışılan ana karakter görselleri eklenmiştir.
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter1.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter2.png)
+  
+- **Oyundan Görseller**: 
+- Oyundan görseller eklenmiştir.
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Başlangıç_ekranı.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_1.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_2.png)
+
+- **Sprint Review**: 
+Alınan kararlar: 
+  - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
+Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Test'ler için ayrılan efor/saat arttırılmalı.
+
+- **Diğer Notlar:**
+  - Düşman çeşitliliğinin arttırılması,
+  - Düşman ve karakter tasarımlarının değiştirilmesi,
+  - Karakter ve düşman animasyonlarının oluşturulması/geliştirilmesi...
