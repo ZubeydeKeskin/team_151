@@ -139,7 +139,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Oyun Ana Karakteri ve Yan Karakterlerden Görseller**: 
 - Üzerinde çalışılan ana karakter ile animasyon için gerekli sprite sheet tamamlanamamıştır. Free kaynaktan kullanılan ana karakterin referans linki şu şekildedir: https://www.gameart2d.com/red-hat-boy-free-sprites.html
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter1.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/HaticeKübra_Tasarımlar.png)
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Karakter2.png)
   
 - **Oyundan Görseller**: 
