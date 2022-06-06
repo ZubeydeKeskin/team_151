@@ -10,6 +10,7 @@ namespace Platformer.Gameplay
     public class PlayerJumped : Simulation.Event<PlayerJumped>
     {
         public PlayerController player;
+        // Karakter zıplamasında olacaklar, (oynatılacak sesler)
 
         public override void Execute()
         {

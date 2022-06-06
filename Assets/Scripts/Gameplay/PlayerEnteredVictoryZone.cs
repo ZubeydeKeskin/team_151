@@ -27,7 +27,7 @@ namespace Platformer.Gameplay
             }
             else
             {
-                SceneManager.LoadScene(5);
+                SceneManager.LoadScene(5); //Karakteri kazanma ekranına gönder
             }
 
             //Elindeki skoru oynanılan bölüm için kaydet (Score.cs içinde)
@@ -52,7 +52,8 @@ namespace Platformer.Gameplay
                 Score.totalScore = Score.firstZone + Score.secondZone + Score.thirdZone;
                 Score.instanceScore = 0; 
             }
-            Score.totalScore = Score.firstZone + Score.secondZone + Score.thirdZone;
+            
+            Score.totalScore = Score.firstZone + Score.secondZone + Score.thirdZone; //Toplam skor, bitimde kaydedilir
             Score.instanceScore = 0; // Anlık Skoru sıfırla
             
         }

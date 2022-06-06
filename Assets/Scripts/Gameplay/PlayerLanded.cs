@@ -10,7 +10,7 @@ namespace Platformer.Gameplay
     public class PlayerLanded : Simulation.Event<PlayerLanded>
     {
         public PlayerController player;
-
+        //Karakter yere dokununca yaşanacaklar, (şimdilik boş)
         public override void Execute()
         {
 

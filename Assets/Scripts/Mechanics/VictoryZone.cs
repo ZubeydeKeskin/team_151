@@ -21,7 +21,7 @@ namespace Platformer.Mechanics
             {
                 var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Ana ekrana gönder ve skorları kayıt et)
                 ev.victoryZone = this;
-            }else if (Input.GetButton("Vertical") && SceneManager.GetActiveScene().buildIndex == 4)
+            }else if (Input.GetButton("Vertical") && SceneManager.GetActiveScene().buildIndex == 4 && Keys.kaykay)
             {
                 var ev = Schedule<PlayerEnteredVictoryZone>();//VictoryZone girişi çalıştır, (Son ekrana gönder ve skorları kayıt et)
                 ev.victoryZone = this;
