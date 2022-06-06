@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class Keys : MonoBehaviour
 {
-    public static bool key1, key2, key3;
+    public static bool key1, key2, key3, kaykay;
     public AudioClip keyCollectAudio;
     static void collect_key1()
     {
@@ -18,6 +18,10 @@ public class Keys : MonoBehaviour
     {
         key3 = true;
     }
+    static void collect_kaykay()
+    {
+        kaykay = true;
+    }
     void OnTriggerEnter2D(Collider2D other)
     {
         if (SceneManager.GetActiveScene().buildIndex == 1)
@@ -29,6 +33,9 @@ public class Keys : MonoBehaviour
         }else if (SceneManager.GetActiveScene().buildIndex == 3)
         {
             collect_key3();
+        }else if (SceneManager.GetActiveScene().buildIndex == 4)
+        {
+            collect_kaykay();
         }
         Destroy(gameObject);
         AudioSource.PlayClipAtPoint(keyCollectAudio, gameObject.transform.position);
@@ -47,7 +54,6 @@ public class Keys : MonoBehaviour
         if (key3 && (SceneManager.GetActiveScene().buildIndex == 3))
         {
             Destroy(gameObject);
-            Debug.Log("selam");
         }
     }
 }

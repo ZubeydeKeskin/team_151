@@ -10,7 +10,7 @@ namespace Platformer.Gameplay
     public class PlayerStopJump : Simulation.Event<PlayerStopJump>
     {
         public PlayerController player;
-
+        //Karakter zıplayı bırakınca yaşanacaklar, (şimdilik boş)
         public override void Execute()
         {
 
