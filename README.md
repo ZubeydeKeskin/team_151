@@ -131,7 +131,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 2 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Team151_DailyScrumMeetingNotesSprint2.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Sprintboard2.png) 
+![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/Sprintboard3.png) 
   
 - **Sahne Arkaplan Tasarımı Seçilen Görseller**: 
 - Sprint dosyasına sahnelerde kullanılan arkaplan görselleri eklenmiştir. Referans alınan link şu şekildedir:
