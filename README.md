@@ -160,13 +160,13 @@ Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
 - **Diğer Notlar:**
  - Kodlarda kullanılan inputlar ve karşılıkları)
 --Input Manager--
- - Horizontal : "a" - "d" //ya da// "left" - "right" tuşları
- - Vertical : "s" - "w" //ya da// "down" - "up" tuşları
- - Fire1 : "Left-Control" (L-CTRL) //ya da// "Mouse 0" (Fare sol tıkı)
- - Fire2 : "Left-Altl" (L-ALT) //ya da// "Mouse 1" (Fare sağ tıkı)
- - Fire3 : "Left-Shift" (L-SHIFT) //ya da// "Mouse 2" (Fare orta tıkı)
- - Jump : "Space" (Boşluk tuşu)
- - Submit : "Return" //ya da// "Enter"
- - Cancel : "Escape" (ESC)
- - Menu : "Escape" (ESC) 
+  - Horizontal : "a" - "d" //ya da// "left" - "right" tuşları
+  - Vertical : "s" - "w" //ya da// "down" - "up" tuşları
+  - Fire1 : "Left-Control" (L-CTRL) //ya da// "Mouse 0" (Fare sol tıkı)
+  - Fire2 : "Left-Altl" (L-ALT) //ya da// "Mouse 1" (Fare sağ tıkı)
+  - Fire3 : "Left-Shift" (L-SHIFT) //ya da// "Mouse 2" (Fare orta tıkı)
+  - Jump : "Space" (Boşluk tuşu)
+  - Submit : "Return" //ya da// "Enter"
+  - Cancel : "Escape" (ESC)
+  - Menu : "Escape" (ESC) 
 
