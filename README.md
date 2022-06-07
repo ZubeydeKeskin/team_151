@@ -128,7 +128,7 @@ Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 2 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Team151_DailyScrumMeetingNotesSprint3.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord kanalı üzerinden yapılmasına karar verilmiştir. [Sprint 3 Daily Scrum Chats](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/Team151_DailyScrumMeetingNotesSprint3.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/Sprintboard3.png) 
