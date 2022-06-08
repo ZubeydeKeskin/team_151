@@ -156,6 +156,31 @@ Alınan kararlar:
   - Test'ler için ayrılan efor/saat arttırılmalı.
 
 - **Diğer Notlar:**
+ - Unity Version:
+2020.3.34f1 
+
+ - Amaç:
+XtoY oyununda olabildiğince fazla para (token) toplayan karakterimizin amacı tüm bölümleri tamamlayıp oyun sonunda maksimum skorla kaykaya ulaşmaktır. 
+
+ - Oyun Mekanikleri:
+Karakterimiz öldükçe paralar siliniyor ve baştan (reset atıp) oyuna başlanılıyor. Her bölüm sonu bir anahtar alıp sonraki bölüme ilerlemektedir. 
+Oyuncu, farklı bölümlere kapılardan aşağı ve yukarı yön tuşları ya da "w&s" klavye tuşları ile geçmektedir. 
+
+ - Kaynaklar:
+  - https://learn.unity.com/project/2d-platformer-template
+ - Oyun Ana Karakteri: https://www.gameart2d.com/red-hat-boy-free-sprites.html 
+ - Ses Dosyaları: 
+  - https://freesound.org/people/PhilSavlem/sounds/338260/
+  - https://freesound.org/people/Zott820/sounds/209578/
+  - https://freesound.org/people/kiddpark/sounds/201159/
+  - https://freesound.org/people/ScreamStudio/sounds/412168/
+  - https://freesound.org/people/noirenex/sounds/159408/
+  - https://freesound.org/people/LloydEvans09/sounds/187024/
+  - https://freesound.org/people/OwlStorm/sounds/404793/
+  - https://freesound.org/people/felixyadomi/sounds/456374/
+  - https://freesound.org/people/EminYILDIRIM/sounds/536071/
+  - https://www.youtube.com/watch?v=TiC7_167hQ0
+
  - Kodlarda kullanılan inputlar ve karşılıkları)
 --Input Manager--
   - Horizontal : "a" - "d" //ya da// "left" - "right" tuşları
