@@ -167,9 +167,9 @@ Karakterimiz öldükçe paralar siliniyor ve baştan (reset atıp) oyuna başlan
 Oyuncu, farklı bölümlere kapılardan aşağı ve yukarı yön tuşları ya da "w&s" klavye tuşları ile geçmektedir. 
 
  - Kaynaklar:
-  - https://learn.unity.com/project/2d-platformer-template
- - Oyun Ana Karakteri: https://www.gameart2d.com/red-hat-boy-free-sprites.html 
- - Ses Dosyaları: 
+--https://learn.unity.com/project/2d-platformer-template
+--Oyun Ana Karakteri: https://www.gameart2d.com/red-hat-boy-free-sprites.html 
+--Ses Dosyaları: 
   - https://freesound.org/people/PhilSavlem/sounds/338260/
   - https://freesound.org/people/Zott820/sounds/209578/
   - https://freesound.org/people/kiddpark/sounds/201159/
