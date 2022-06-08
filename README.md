@@ -149,8 +149,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_5.png)
 - **Sprint Review**: 
 Alınan kararlar: 
-  - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
-Sprint Review katılımcıları: Hasan & Zübeyde & Hatice Kübra & Şüheda
+  - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir. İş yükünün dengeli bir şekilde paylaştırılması ve üstlenilmesi gerekmektedir.
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
