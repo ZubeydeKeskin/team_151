@@ -144,10 +144,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   
 - **Oyundan Görseller**: 
 - Oyundan görseller eklenmiştir.
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Başlangıç_ekranı.png)
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_1.png)
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/XtoY_2.png)
-
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_0.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_1.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_2.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_3.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_4.png)
+  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/sprint3_5.png)
 - **Sprint Review**: 
 Alınan kararlar: 
   - Görev dağılımlarının ve ayrılacak olan zamanların daha ayrıntılı belirtilmesi gerekmektedir.
