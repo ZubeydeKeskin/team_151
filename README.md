@@ -132,10 +132,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint3/Sprintboard3.png) 
-  
-- **Sahne Arkaplan Tasarımı Seçilen Görseller**: 
-- Sprint dosyasına sahnelerde kullanılan arkaplan görselleri eklenmiştir. Referans alınan link şu şekildedir:
-  ![Screenshot 1](https://github.com/ZubeydeKeskin/team_151/blob/main/sprint2/Arkaplan1.png)
+ 
 
 - **Oyun Ana Karakteri ve Yan Karakterlerden Görseller**: 
 - Üzerinde çalışılan ana karakter ile animasyon için gerekli sprite sheet tamamlanamamıştır. Free kaynaktan kullanılan ana karakterin referans linki şu şekildedir: https://www.gameart2d.com/red-hat-boy-free-sprites.html
